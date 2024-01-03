@@ -1,1 +1,0 @@
-## ALX front End JavaScript

@@ -1,7 +1,7 @@
-## An ALX Software Engineering Task 
+## An ALX Software Engineering Task (JavaScript)
 
-# Front End
+Front End
 
-# Author
+Author
 
 Ephraim Abstaina

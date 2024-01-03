@@ -1,1 +1,1 @@
-ALX front End JavaScript Task
+ALX front End JavaScript Specialization

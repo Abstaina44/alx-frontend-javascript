@@ -1,1 +1,1 @@
-ALX front End
+ALX front End JavaScript
